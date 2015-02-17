@@ -1,6 +1,7 @@
 10 rem sprite example 1
 11 rem the hot air balloon
 12 rem from c64 reference guide 4th ed
+13 rem pg 146
 30 vic=13*4096
 35 pokevic+21,1
 36 pokevic+33,14
